@@ -1,5 +1,2 @@
-# Demo
-something!
-
-## Hello
-I love you
+# Intro
+This is a project containing some basic Python knowledge.
